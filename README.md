@@ -1,4 +1,4 @@
 # firstsid
 first project
 <br>
-author siddhant
+author siddhant and trish
